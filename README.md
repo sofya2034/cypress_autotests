@@ -1,4 +1,4 @@
-<h2>UI Автотесты на фреймворке Cypress</h2>
+<img width="3834" height="2070" alt="image" src="https://github.com/user-attachments/assets/2b94159b-41bb-47b5-80f5-e581956aab9f" /><h2>UI Автотесты на фреймворке Cypress</h2>
 
 > **Статус проекта:**
 > Публичный проект: https://login.qa.studio/
@@ -20,10 +20,10 @@
 ![image](https://github.com/sofya2034/cypress_autotests/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-10%20172646.jpg?raw=true)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://github.com/sofya2034/cypress_autotests/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-10%20172753.jpg?raw=true)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://github.com/sofya2034/cypress_autotests/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-10%20172855.jpg?raw=true)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
@@ -36,7 +36,7 @@
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_cli.png)
+![image](https://github.com/sofya2034/cypress_autotests/blob/main/Cypress_cli.png?raw=true)
 
 
 ## Локальный запуск через Cypress UI
@@ -49,7 +49,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
+![image](https://github.com/sofya2034/cypress_autotests/blob/main/Cypress_UI.png?raw=true)
 
 
 ## Автор
